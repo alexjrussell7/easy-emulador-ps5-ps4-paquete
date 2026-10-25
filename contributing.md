@@ -160,3 +160,5 @@ cinco minutos.
 ---
 
 *Emulador de PS5 y PS4 · Actualizado 2026-10-25 · Compartido bajo licencia MIT*
+
+<!-- rev 2026-10-25 -->
